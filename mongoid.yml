@@ -1,0 +1,14 @@
+development:
+  sessions:
+    default:
+      database: test
+      hosts:
+        - localhost:27017
+      username: test
+      password: test
+    production:
+      database: ol-blog-post
+      hosts:
+        - ds047207.mongolab.com:47207
+      username: ol-blog-user
+      password: tr1xt3r!

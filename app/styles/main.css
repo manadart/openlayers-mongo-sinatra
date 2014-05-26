@@ -1,0 +1,11 @@
+#mapdiv {
+  border: 1px solid gray;
+  width: 100%; 
+  height: 420px;
+}
+
+img { max-width: none; }
+
+#poi-modal {
+  margin: -150px 0 0 -280px;
+}
